@@ -1,11 +1,13 @@
-# casio-fx-991es-emulator
-A Windows-based emulator for the Casio fx-991ES Plus calculator
+Casio fx-991ES Plus C Emulator - Installation Instructions
 
-![alt text]({7BAFBA03-C60A-4BD0-9951-E28918AA0BF8}.png)
+Thank you for downloading the Casio fx-991ES Plus C emulator application!  
+Please follow the steps below to install and activate the emulator.
+
+---
 
 ## Installation Steps:
-1. Download the latest release from the repository.
-2. Double-click on `fx-991ES PLUS C Emulator Ver.4.00.exe` to launch the installer.
+1. Download the file `emulator.exe` from the repository.
+2. Double-click on `emulator.exe` to launch the installer.
 3. Follow the on-screen instructions to complete the installation process.
 
 ---
